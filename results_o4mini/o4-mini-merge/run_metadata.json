@@ -1,0 +1,21 @@
+{
+  "run_id": "run_2026-05-17_09-04-50",
+  "timestamp": "2026-05-17_09-04-50",
+  "max_iterations": 5,
+  "start_time": "2026-05-17_09-04-50",
+  "status": "completed",
+  "end_time": "2026-05-17_09-31-32",
+  "total_iterations": 0,
+  "best_version": null,
+  "kernel_versions": [
+    "v1",
+    "v2",
+    "v3",
+    "v4",
+    "v5",
+    "v6"
+  ],
+  "benchmark_results_available": true,
+  "visualizations_generated": true,
+  "report_generated": false
+}
