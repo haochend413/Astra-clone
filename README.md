@@ -1,5 +1,7 @@
 # Astra Running Results 
 
+Hardware: A40 
+
 ## o4-mini results 
 
 ### Base vs Opt
